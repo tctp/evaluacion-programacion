@@ -55,6 +55,6 @@ Si puedes, pero comenta bien si utilizas algo demasiado exótico.
 
 <a name="pregunta"></a>
 
-## Pregunta a travéz de tu postulación en Getonbrd
+## Pregunta a través de tu postulación en Getonbrd
 
 Revisa tu postulación [en la oferta](https://www.getonbrd.com/empleos/programacion/desarrollador-backend-tu-clase-tu-pais-santiago) y envía una pregunta en un mensaje.
