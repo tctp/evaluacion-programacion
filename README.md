@@ -21,7 +21,7 @@ Demás está decir que tu trabajo debe estar comentado y explicado pues buscamos
 
 # Preguntas
 
-Si tienes preguntas existen básicamente dos opciones:
+Si tienes preguntas existen básicamente tres opciones:
 
 - [Revisa el FAQ](#FAQ)
 - [Busca en internet](#search)
