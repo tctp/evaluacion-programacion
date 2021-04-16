@@ -28,6 +28,7 @@ Si tienes preguntas existen básicamente tres opciones:
 - [Pregunta a travéz de tu postulación en Getonbrd](#pregunta)
 
 <a name="FAQ"></a>
+
 # FAQ
 
 - ### En que lenguaje debo desarrollar las respuestas?
@@ -42,13 +43,14 @@ Puede ser en los mismos archivos de problemas o archivos nuevos, lo importante e
 
 - ### Cuando estarán los resultados de mi evaluación
 
-En la semana del 11 al 15 de enero
+En la semana del 19 al 23 de abril
 
 - ### Puedo utilizar librerias en mis desarrollos?
 
 Si puedes, pero comenta bien si utilizas algo demasiado exótico.
 
 <a name="search"></a>
+
 ## Busca en internet
 
 [Google](https://google.cl) es tu amigo, [Stackoverflow](https://stackoverflow.com) también.
