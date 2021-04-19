@@ -9,7 +9,7 @@ Este repositorio contiene la prueba que debe ser resuelta para poder optar a un 
 Para resolver esta prueba deberas:
 
 1. Clonar este repositorio
-2. Resolver los problemas en los archivos p1 y p2
+2. Resolver los problemas en los archivos [p1](https://github.com/tctp/evaluacion-programacion/blob/main/problemas/p1.js) y [p2](https://github.com/tctp/evaluacion-programacion/blob/main/problemas/p2.js) dentro de la carpeta [problemas](https://github.com/tctp/evaluacion-programacion/tree/main/problemas)
 3. Subir tu solución a tu cuenta git y enviarnos tu respuesta en la postulación a Getonbrd
 
 ## Qué es lo que medimos
