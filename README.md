@@ -43,7 +43,7 @@ Puede ser en los mismos archivos de problemas o archivos nuevos, lo importante e
 
 - ### Cuando estarán los resultados de mi evaluación
 
-En la semana del 19 al 23 de abril
+Esperamos que resuelvas nuestro examen práctico como máximo hasta 1 semana despues de enviarte el mensaje que has pasado el filtro de aptitud para el cargo. Revisa tu ficha de postulación en getonbrd para saber exactamente cual es tu fecha límite.
 
 - ### Puedo utilizar librerias en mis desarrollos?
 
